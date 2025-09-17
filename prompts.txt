@@ -1,0 +1,1 @@
+Create modern looking website for Expat Services company called DIY Expat. The company provides expat services in the country Georgia. Some of the service are: Relocation, Visa Assistance, Banking & Tax, Company Registration. Make it multipage website with a modern homepage, services page and add the services listed above with their own content. 
