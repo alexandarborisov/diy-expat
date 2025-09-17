@@ -1,0 +1,6 @@
+name = "diyexpat"
+main = "index.html"
+compatibility_date = "2025-09-17"
+
+[site]
+bucket = "./dist"
