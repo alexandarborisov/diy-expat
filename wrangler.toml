@@ -1,4 +1,4 @@
 name = "diyexpat"
 
 [site]
-bucket = "./dist"
+bucket = "."
